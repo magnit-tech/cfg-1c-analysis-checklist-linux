@@ -24,15 +24,11 @@
 2. **Замена реализации на возможности платформы 1С:**
    - Табличный документ
    - Возможности и ограничения
-3. **Использование Open Office и внешней компоненты:**
-   - [Пример Excel](https://example.com/excel)
-   - [Пример Word](https://example.com/word)
-   - [Работа с OpenOffice без COM](https://example.com/openoffice)
-4. **Парсинг и корректировка самого файла Office:**
-   - [Пример Excel](https://example.com/excel)
-   - [Пример Word](https://example.com/word)
+3. **Парсинг и корректировка самого файла Office:**
+   - [Пример Excel](https://infostart.ru/1c/articles/225624/)
+   - [Пример Word](https://infostart.ru/public/1171429/)
    - [Office Open XML](https://ru.wikipedia.org/wiki/Office_Open_XML)
-5. **Использование выделенного сервера для обработки документов Office:**
+4. **Использование выделенного сервера для обработки документов Office:**
    - Сервер под управлением ОС Windows
    - Web-сервер для получения и обработки запросов
 
@@ -40,7 +36,7 @@
 
 **Требования:**
 - Установка утилиты Bteq (Basic Teradata Query) на сервер 1С
-- Скачать с официального сайта: [Teradata Tools and Utilities Linux](https://example.com/teradata-tools)
+- Скачать с официального сайта: [Teradata Tools and Utilities Linux](https://downloads.teradata.com/download/tools/teradata-tools-and-utilities-linux-installation-package-0)
 
 **Пример использования:**
 
